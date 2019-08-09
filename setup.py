@@ -7,7 +7,7 @@ setup(
     description      = 'Korean Input for Pygame',
     author           = 'Jaesuk Lim',
     author_email     = 'flight0454@gmail.com',
-    #url              = 'https://github.com/flight0454/KorInput',
+    url              = 'https://github.com/flight0454/KoInput',
     #download_url     = 'https://github.com/rampart81/pyquibase/archive/1.2.tar.gz',
     install_requires = ['hgtk','pygame','text-to-image','Pillow' ],
     packages         = find_packages(exclude = ['docs', 'tests*']),
